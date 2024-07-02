@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.cabecalho {
+    text-align: center; 
+}
+.cabecalho-titulo {
+    font-size: 50px;
+}
+
+.cabecalho-texto {
+    font-size: 20px;
+}
+
+body {
+    font-size: 100%;
+    background: rgb(166, 255, 166);
+    font-family: righteous;
+    
+}
+
+.conteudo {
+    margin-bottom: 48px;
+    margin-top: 40px;
+    font-family: 'righteous';
+    text-align: center;
+}
+
+.conteudo-texto {
+    margin-top: 10px;
+    font-size: 21px;
+}
+
+.conteudo-legenda {
+    font-size: 12px;
+}
+
+.conteudo-titulo {
+    font-size: 38px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+.desfecho-contato {
+    color: red;
+    font-size: 38px;
+
+}
+
+.desfecho-link {
+    font-size: 18px;
+}
+
+.direitos-reservados {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+}
